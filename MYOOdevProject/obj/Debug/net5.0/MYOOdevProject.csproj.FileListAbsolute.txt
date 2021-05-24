@@ -1,0 +1,16 @@
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\bin\Debug\net5.0\MYOOdevProject.exe
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\bin\Debug\net5.0\MYOOdevProject.deps.json
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\bin\Debug\net5.0\MYOOdevProject.runtimeconfig.json
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\bin\Debug\net5.0\MYOOdevProject.runtimeconfig.dev.json
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\bin\Debug\net5.0\MYOOdevProject.dll
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\bin\Debug\net5.0\ref\MYOOdevProject.dll
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\bin\Debug\net5.0\MYOOdevProject.pdb
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.csprojAssemblyReference.cache
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.AssemblyInfoInputs.cache
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.AssemblyInfo.cs
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.dll
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\ref\MYOOdevProject.dll
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.pdb
+C:\Users\Ahoi\source\repos\MYOOdevProject\MYOOdevProject\obj\Debug\net5.0\MYOOdevProject.genruntimeconfig.cache
